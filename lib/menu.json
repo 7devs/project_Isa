@@ -1,0 +1,24 @@
+{
+    "button": [
+        {
+            "name": "吃得香",
+            "sub_button": [
+                {
+                    "name": "吃肉吧",
+                    "type": "click",
+                    "key": "menu1"
+                }
+            ]
+        },
+        {
+            "name": "玩得爽",
+            "type": "click",
+            "key": "menu2"
+        },
+        {
+            "name": "还要变强壮",
+            "type": "view",
+            "url": "http://wechatdev.yokeneng.com/"
+        }
+    ]
+}

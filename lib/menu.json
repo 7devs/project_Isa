@@ -1,22 +1,27 @@
 {
     "button": [
         {
-            "name": "吃得香",
+            "name": "菜单1",
             "sub_button": [
                 {
-                    "name": "吃肉吧",
-                    "type": "click",
-                    "key": "menu1"
+                    "name": "拍照",
+                    "type": "pic_photo_or_album",
+                    "key": "takeshot"
+                },
+                {
+                  "name":"扫码",
+                  "type":"scan",
+                  "key":"lalala"
                 }
             ]
         },
         {
-            "name": "玩得爽",
+            "name": "菜单2",
             "type": "click",
             "key": "menu2"
         },
         {
-            "name": "还要变强壮",
+            "name": "菜单3",
             "type": "view",
             "url": "http://wechatdev.yokeneng.com/"
         }

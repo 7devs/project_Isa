@@ -10,7 +10,7 @@
                 },
                 {
                   "name":"扫码",
-                  "type":"scan",
+                  "type":"scancode_push",
                   "key":"lalala"
                 }
             ]
